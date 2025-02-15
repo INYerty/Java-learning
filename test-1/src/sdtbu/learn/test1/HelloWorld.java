@@ -1,7 +1,7 @@
 package sdtbu.learn.test1;
 
 public class HelloWorld {
-  publuc static void main(string[] args){
+  public static void main(String[] args){
     System.out.println("Hello World!");
   }
 }
